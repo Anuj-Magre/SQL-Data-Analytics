@@ -335,14 +335,11 @@ SQL-Data-Analytics
 ---
 ## Author
 
-Anuj Magre
-Aspiring Data Analyst passionate about solving real-world problems using data.
-Skills
-SQL
-Excel
-Power BI
-Python
-Data Analysis
+**Anuj Magre**  
+Aspiring Data Analyst passionate about turning data into insights.
 
-GitHub: [Add your GitHub link](https://github.com/Anuj-Magre)
-LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/anujmagre/)
+**Skills:**  
+SQL • Excel • Power BI • Python • Data Analysis  
+
+🔗 GitHub: https://github.com/Anuj-Magre  
+🔗 LinkedIn: https://www.linkedin.com/in/anujmagre/
