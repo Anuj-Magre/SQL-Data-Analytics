@@ -1,12 +1,23 @@
 # Netflix Data Analysis using SQL
 
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
 ## Project Overview
 
-This project analyzes the **Netflix Movies and TV Shows dataset** using SQL to solve real-world business problems. The objective is to explore Netflix content and extract meaningful insights related to movies, TV shows, ratings, actors, genres, and countries.
+This project analyzes the **Netflix Movies and TV Shows dataset** using SQL to solve real-world business problems. The goal of this analysis is to explore Netflix’s content library and extract meaningful insights related to movies, TV shows, ratings, actors, genres, and countries.
 
-The project answers **15 analytical business questions** using SQL queries and demonstrates key data analysis techniques used in real-world data analyst roles.
+The project answers **15 analytical business questions** using SQL queries and demonstrates practical SQL techniques used in real-world **Data Analyst roles**.
 
-This project is part of my **Data Analyst Portfolio**.
+This project is part of my **Data Analyst Portfolio** and highlights my ability to work with datasets, perform analysis, and derive insights using SQL.
+
+---
+
+## Project Highlights
+
+• Solved **15 real-world business problems using SQL**  
+• Applied advanced SQL concepts such as **window functions, JSON_TABLE, subqueries, and date functions**  
+• Performed **content distribution and genre analysis** on Netflix data  
+• Extracted insights about **countries, actors, and content trends**
 
 ---
 
@@ -20,10 +31,9 @@ This project is part of my **Data Analyst Portfolio**.
 
 ## Dataset
 
-Dataset Source: Kaggle
+Dataset Source: **Kaggle**
 
-Netflix Movies and TV Shows Dataset
-
+Netflix Movies and TV Shows Dataset  
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 The dataset contains information about Netflix titles such as:
@@ -304,13 +314,16 @@ order by type;
 ## Key SQL Concepts Used
 This project demonstrates the use of several SQL techniques including:
 
-- Aggregation functions (COUNT, MAX)
-- Window functions (RANK)
-- String functions (LIKE, TRIM, SUBSTRING_INDEX)
-- Date functions (STR_TO_DATE, DATE_SUB)
-- JSON_TABLE for splitting comma-separated values
+- Aggregation functions (`COUNT`, `MAX`)
+- Window functions (`RANK`)
+- String functions (`LIKE`, `TRIM`, `SUBSTRING_INDEX`)
+- Date functions (`STR_TO_DATE`, `DATE_SUB`)
+- JSON parsing using `JSON_TABLE`
 - Subqueries
-- CASE statements for data categorization
+- CASE statements for categorization
+- Data filtering and grouping
+  
+These techniques are commonly used in real-world **data analysis and reporting tasks**.
 
 ---
 ## Key Insights
@@ -343,3 +356,12 @@ SQL • Excel • Power BI • Python • Data Analysis
 
 🔗 GitHub: https://github.com/Anuj-Magre  
 🔗 LinkedIn: https://www.linkedin.com/in/anujmagre/
+
+
+---
+
+## Project Purpose
+
+This project was created to practice **SQL-based data analysis and business problem solving**, which are essential skills for **Data Analyst roles**.
+
+If you found this project helpful or interesting, feel free to explore the repository and connect with me.
