@@ -320,3 +320,29 @@ This project demonstrates the use of several SQL techniques including:
 - Some actors frequently appear in Indian Netflix productions.
 - Genre distribution shows the diversity of Netflix's content library.
 - Keyword analysis helps categorize potentially violent content themes.
+
+---
+## Project Structure
+```
+SQL-Data-Analytics
+└── netflix-sql-data-analysis
+    ├── Business Problems Netflix.sql
+    ├── Solutions of 15 business problems.sql
+    ├── netflix_titles.csv
+    ├── schemas.sql
+    └── README.md
+```
+---
+## Author
+
+Anuj Magre
+Aspiring Data Analyst passionate about solving real-world problems using data.
+Skills
+SQL
+Excel
+Power BI
+Python
+Data Analysis
+
+GitHub: [Add your GitHub link](https://github.com/Anuj-Magre)
+LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/anujmagre/)
