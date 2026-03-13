@@ -1,7 +1,11 @@
--- Nteflix_Data_Analysis
+-- -----------------------------
+-- Nteflix_Data_Analysis_Project
+-- -----------------------------
 
+
+-- --------------------------------
 -- 15 Business Problems & Solutions
--- Solutions of 15 business problems
+-- ---------------------------------
 
 -- 1. Count the number of Movies vs TV Shows
 
